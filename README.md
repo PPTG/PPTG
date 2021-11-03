@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @PPTG
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PPTG)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
