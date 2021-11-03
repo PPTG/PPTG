@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @PPTG
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PPTG)](https://github.com/anuraghazra/github-readme-stats)
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
