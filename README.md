@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @PPTG ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+- 👋 Hi, I’m @PPTG 
+- 👀 I’m interested in electronics, programming in python c++ of the Arduino variety, creating projects and tinkering.
+
 
 ![PPTG GitHub stats](https://github-readme-stats.vercel.app/api?username=PPTG&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&layout=compact)
 
-- 👀 I’m interested in electronics, programming in python c++ of the Arduino variety, creating projects and tinkering.
+
 
 
 <!---
