@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PPTG
+- 👋 Hi, I’m @PPTG ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 
 ![PPTG GitHub stats](https://github-readme-stats.vercel.app/api?username=PPTG&theme=tokyonight&show_icons=true)
 
