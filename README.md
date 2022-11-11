@@ -2,7 +2,7 @@
 
 ![PPTG GitHub stats](https://github-readme-stats.vercel.app/api?username=PPTG&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&layout=compact)
 
 - 👀 I’m interested in electronics, programming in python c++ of the Arduino variety, creating projects and tinkering.
 
