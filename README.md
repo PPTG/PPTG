@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PPTG
 
-![PPTG GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
+![PPTG GitHub stats](https://github-readme-stats.vercel.app/api?username=PPTG&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG)
 
