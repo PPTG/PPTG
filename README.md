@@ -5,7 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG)
 
 - 👀 I’m interested in electronics, programming in python c++ of the Arduino variety, creating projects and tinkering.
-- 
 
 
 <!---
