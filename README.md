@@ -1,4 +1,4 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PPTG.OtaMultiUpdate)
 - 👋 Hi, I’m @PPTG 
 - 👀 Hi I am a 22 year old passionate about programming, electronics and DIY. My native language is Polish. I'm studying software engineering in Wroclaw (Poland).
 - In my free time I create my projects using AVR and ESP microcontrollers.
