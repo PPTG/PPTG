@@ -4,7 +4,7 @@
   I write in Python, C++ language.
 
 
-![PPTG GitHub stats](https://github-readme-stats.vercel.app/api?username=PPTG&theme=tokyonight&show_icons=true)
+[![PPTG stats](https://github-readme-stats.vercel.app/api?username=PPTG)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&layout=compact)
 
