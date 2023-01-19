@@ -3,12 +3,7 @@
 - In my free time I create my projects using AVR and ESP microcontrollers.
   I write in Python, C++ language.
 
-
-[![PPTG stats](https://github-readme-stats.vercel.app/api?username=PPTG)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&layout=compact)
-
-
+[![PPTG](https://github-readme-stats.vercel.app/api?username=PPTG)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
