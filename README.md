@@ -14,9 +14,8 @@ Skills: Python/Arduino/C++/JS/CSS
 - 🔭 I’m currently working on licence plate recognition 
 - 🌱 I’m currently learning django, opencv 
 
-![Profile views](https://gpvc.arturio.dev/PPTG)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PPTG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pptg/)  
-
+![Profile views](https://gpvc.arturio.dev/PPTG)
 
 
 
