@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Patrick [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, my name is Patrick 
 ![background-g33cd06835_1920](https://user-images.githubusercontent.com/24864691/213499917-d67f6f75-7518-4111-a887-cdd7eff033d8.jpg)
 
 I am a 22 year old passionate about programming, electronics and DIY.
