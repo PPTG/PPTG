@@ -6,11 +6,9 @@ I am a 22 year old passionate about programming, electronics and DIY.
 My native language is Polish. I'm studying software engineering in Wroclaw (Poland).
 <br>
 In my free time I create my projects using AVR and ESP microcontrollers. I write in Python, C++.
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PPTG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pptg/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PPTG&show_icons=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PPTG)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pptg/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/PPTG)  
 
