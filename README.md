@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Patrick
 #### 
+![background-g33cd06835_1920](https://user-images.githubusercontent.com/24864691/213499917-d67f6f75-7518-4111-a887-cdd7eff033d8.jpg)
 I am a 22 year old passionate about programming, electronics and DIY. My native language is Polish. I'm studying software engineering in Wroclaw (Poland).
 In my free time I create my projects using AVR and ESP microcontrollers. I write in Python, C++.
 
