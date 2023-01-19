@@ -8,7 +8,7 @@ My native language is Polish. I'm studying software engineering in Wroclaw (Pola
 In my free time I create my projects using AVR and ESP microcontrollers. I write in Python, C++.
 
 Skills: Python/Arduino/C++/JS/CSS
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on licence plate recognition 
 - 🌱 I’m currently learning django, opencv 
 
