@@ -3,7 +3,6 @@
 
 I am a 24 year old passionate about programming, electronics and DIY.
 <br>
-My native language is Polish. I'm studying software engineering in Wroclaw (Poland).
 <br>
 In my free time I create my projects using AVR and ESP microcontrollers. I write in Python, C++.
 
