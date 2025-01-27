@@ -12,9 +12,6 @@ Skills: Python/Arduino/C++/JS/CSS
 - 🌱 I’m currently learning django, opencv 
 
 Statistic:
-<br>
-![PPTG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PPTG&theme=vue-dark&hide_border=true)
-<br>
 ![PPTG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 Socjal:
