@@ -9,9 +9,14 @@ Skills: Python/Arduino/C++/JS/CSS/Linux/TensorFlow/OpenCV
 <br>
 
 🔭 I'm currently working on an AI Project Assistant that leverages LLMs for enhanced development workflows
+<br>
 🌱 I'm currently learning Django, OpenCV, and advanced NLP techniques
+<br>
 💻 Daily Linux user with experience in shell scripting and system administration
+<br>
 🤖 Actively exploring the intersection of AI and practical engineering solutions
+<br>
+<br>
 Statistic:
 <br>
 ![PPTG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
