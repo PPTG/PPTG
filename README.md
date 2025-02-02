@@ -1,16 +1,17 @@
 ### Hi there 👋, my name is Patrick 
 ![background-g33cd06835_1920](https://user-images.githubusercontent.com/24864691/213499917-d67f6f75-7518-4111-a887-cdd7eff033d8.jpg)
 
-I am a 24 year old passionate about programming, electronics and DIY.
+I am a 24 year old passionate about programming, electronics, AI, and DIY.
 <br>
 <br>
-In my free time I create my projects using AVR and ESP microcontrollers. I write in Python, C++.
+In my free time I create projects using AVR and ESP microcontrollers, and develop AI-powered solutions. I work with Python, C++, and various AI/ML frameworks. My interests span from embedded systems to large language models (LLMs) and computer vision.
+Skills: Python/Arduino/C++/JS/CSS/Linux/TensorFlow/OpenCV
+<br>
 
-Skills: Python/Arduino/C++/JS/CSS
-<br>
-- 🔭 I’m currently working on licence plate recognition 
-- 🌱 I’m currently learning django, opencv 
-
+🔭 I'm currently working on an AI Project Assistant that leverages LLMs for enhanced development workflows
+🌱 I'm currently learning Django, OpenCV, and advanced NLP techniques
+💻 Daily Linux user with experience in shell scripting and system administration
+🤖 Actively exploring the intersection of AI and practical engineering solutions
 Statistic:
 <br>
 ![PPTG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PPTG&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
