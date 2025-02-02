@@ -6,7 +6,7 @@ I am a 24 year old passionate about programming, electronics, AI, and DIY.
 <br>
 In my free time I create projects using AVR and ESP microcontrollers, and develop AI-powered solutions. I work with Python, C++, and various AI/ML frameworks. My interests span from embedded systems to large language models (LLMs) and computer vision.
 <br>
-Skills: Python/Arduino/C++/JS/CSS/Linux/TensorFlow/OpenCV
+Skills: Python, Arduino, C++, JS, CSS, Linux, TensorFlow, OpenCV
 <br>
 
 🔭 I'm currently working on an AI Project Assistant that leverages LLMs for enhanced development workflows
